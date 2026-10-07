@@ -5,13 +5,6 @@
   </a>
 </p>
 
-<!-- Cúp Thành Tựu GitHub (GitHub Profile Trophy) -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TieuKiet&theme=tokyonight&no-frame=true&column=6" alt="TieuKiet Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
