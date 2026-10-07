@@ -1,48 +1,44 @@
+# Hi there, I'm Tieu Kiet! 👋
+### 🎓 AI Engineering Student @ TDTU | 🐍 Python & Algorithm Enthusiast
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=500&lines=AI+Engineering+Student;Mastering+Data+Structures+%26+Algorithms;Solving+NeetCode+150+%26+LeetCode" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🏫 **Education:** Sinh viên năm 2 ngành Công nghệ Thông tin tại **Đại học Tôn Đức Thắng (TDTU)**.
-- 🎯 **Career Goal:** Định hướng trở thành **AI Engineer / Machine Learning Engineer**.
-- 🌱 **Currently Learning:** Deep Learning (PyTorch), Machine Learning Fundamentals, Math for AI.
-- 💬 **Ask me about:** Python, Data Structures & Algorithms, C++.
+## 👨‍💻 About Me
+- 🎓 **Education:** 2nd-year AI Engineering Student at **Ton Duc Thang University (TDTU)**.
+- 🎯 **Current Focus:** Deep diving into **Data Structures & Algorithms** (NeetCode 150 / LeetCode) & AI Foundations.
+- 🛠️ **Workflow:** Clean Code in Python 3, VS Code, Git & GitHub.
+- 📧 **Email:** tieuminhkiett@gmail.com
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Languages**  
+**Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools & Environment**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Tools & Environment:**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TieuKiet&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TieuKiet&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TieuKiet&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" alt="TieuKiet's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TieuKiet&layout=compact&theme=tokyonight&hide=c,html,css&cache_seconds=1800" alt="Top Languages" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TieuKiet&theme=tokyonight&hide_border=true" width="96%" />
-</p>
+<br/>
 
----
-
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TieuKiet&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
+</div>
